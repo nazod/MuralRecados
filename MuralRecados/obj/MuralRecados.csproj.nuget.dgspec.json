@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Fontes\\MuralRecados\\MuralRecados.csproj": {}
+    "C:\\Fontes\\MuralRecados\\MuralRecados\\MuralRecados.csproj": {}
   },
   "projects": {
-    "C:\\Fontes\\MuralRecados\\MuralRecados.csproj": {
+    "C:\\Fontes\\MuralRecados\\MuralRecados\\MuralRecados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Fontes\\MuralRecados\\MuralRecados.csproj",
+        "projectUniqueName": "C:\\Fontes\\MuralRecados\\MuralRecados\\MuralRecados.csproj",
         "projectName": "MuralRecados",
-        "projectPath": "C:\\Fontes\\MuralRecados\\MuralRecados.csproj",
+        "projectPath": "C:\\Fontes\\MuralRecados\\MuralRecados\\MuralRecados.csproj",
         "packagesPath": "C:\\Users\\Gabriel Ricarte\\.nuget\\packages\\",
-        "outputPath": "C:\\Fontes\\MuralRecados\\obj\\",
+        "outputPath": "C:\\Fontes\\MuralRecados\\MuralRecados\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel Ricarte\\AppData\\Roaming\\NuGet\\NuGet.Config",

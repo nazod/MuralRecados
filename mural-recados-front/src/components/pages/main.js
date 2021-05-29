@@ -30,7 +30,7 @@ function Main() {
       "apelido": nome
   }
 
-    await axios.put(`https://localhost:49153/api/MuralRecado/PutUsuario`, usuario)
+    await axios.put(`https://localhost:49155/api/MuralRecado/PutUsuario`, usuario)
     .then(res => {
       setIdUsuario(res.data[0]);
       console.log(res);
@@ -41,7 +41,7 @@ function Main() {
   }
 
   const getRecados = async () => {
-    await axios.get(`https://localhost:49153/api/MuralRecado/GetRecados`)
+    await axios.get(`https://localhost:49155/api/MuralRecado/GetRecados`)
     .then(res => {
       setRecados(res.data);
       console.log(res);
@@ -57,7 +57,7 @@ function Main() {
 
     }
 
-    await axios.put(`https://localhost:49153/api/MuralRecado/PutRecado`, model)
+    await axios.put(`https://localhost:49155/api/MuralRecado/PutRecado`, model)
     .then(res => {
       setRecados(res.data);
       console.log(res);
@@ -74,7 +74,7 @@ function Main() {
 
     }
 
-    await axios.delete(`https://localhost:49153/api/MuralRecado/DeleteRecado`, { data: model })
+    await axios.delete(`https://localhost:49155/api/MuralRecado/DeleteRecado`, { data: model })
     .then(res => {
       console.log(res);
       console.log(res.data);

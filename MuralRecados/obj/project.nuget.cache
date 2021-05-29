@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5rAw3Np+cbTmlmHJijMDnWkHuIShiO2/L1ZyGhunKNf79Hd53WLr0WHAlhsf7HtuO3F5QLEWoiPYWJTkiLXhGg==",
+  "dgSpecHash": "MRZ2tYx/0ct6bZYVB6n0xJCxfekO1+iZaQw1p+uyDN2C0q9DIRji0PBtxs9H824BCLEyenMBkW/HEPgYs2w9sA==",
   "success": true,
-  "projectFilePath": "C:\\Fontes\\MuralRecados\\MuralRecados.csproj",
+  "projectFilePath": "C:\\Fontes\\MuralRecados\\MuralRecados\\MuralRecados.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel Ricarte\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\Gabriel Ricarte\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.6\\microsoft.aspnetcore.jsonpatch.5.0.6.nupkg.sha512",
